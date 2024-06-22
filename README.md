@@ -31,3 +31,7 @@ pip install requests colorama pyfiglet
 4. Enter the subreddit name when prompted.
 
 5. Enter the number of posts to fetch
+
+![image](https://github.com/Cr0mb/Reddit-Scraper/assets/137664526/70002853-2b6c-477a-a064-e7281d510e88)
+
+![image](https://github.com/Cr0mb/Reddit-Scraper/assets/137664526/5ae8b2f6-d2d2-4a6d-bddd-e4b9906702a4)
