@@ -23,7 +23,7 @@ Reddit Scraper is a Python script that fetches and displays the latest posts fro
 
 2. Install the required libraries
 ```
-pip install requests colorama pyfiglet
+pip install requirements.txt
 ```
 
 3. Run Script
